@@ -1,7 +1,7 @@
 name: shibui
 favicon: null
-layout_spectrum: 0.18156182020902634
-typography_spectrum: 0.6011925763450563
+layout_spectrum: 0.16135
+typography_spectrum: 0.21949
 cta:
   domain: null
   bucket: null
